@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/nickolasdaniel/golang-ginrest/models"
+	"github.com/nickolasdaniel/test-golang-versioning/models"
 )
 
 // GET /books

@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/nickolasdaniel/golang-ginrest/controllers"
-	"github.com/nickolasdaniel/golang-ginrest/models"
+	"github.com/nickolasdaniel/test-golang-versioning/controllers"
+	"github.com/nickolasdaniel/test-golang-versioning/models"
 )
 
 func main() {
